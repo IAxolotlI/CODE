@@ -1,1 +1,1 @@
-файл, отправленный с vscode
+файл, отправленный с visual studio code
